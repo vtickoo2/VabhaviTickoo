@@ -1,4 +1,3 @@
-# VabhaviTickoo
 
 # Welcome to My World of Data!
   #### 🚀 About Me

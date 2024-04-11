@@ -1,7 +1,9 @@
 ![github-header-image](https://github.com/vtickoo2/vtickoo2/assets/151427655/667c1cae-7bc8-45f5-a2ff-d097df8e228a)
-                                                                Visitor Count  
-                                        ![Visitor Count](https://profile-counter.glitch.me/vtickoo2/count.svg)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vtickoo2/count.svg" />
+</p>
 
 # Welcome to My World of Data!
   ### 🚀 About Me

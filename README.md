@@ -4,22 +4,27 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vtickoo2/count.svg" />
 </p>
+<p align="center"> 
+# Welcome to My World of Data! 
+</p>
+### 🚀 About Me
+Hello! I'm **Vabhavi Tickoo**. Welcome to a space where curiosity meets data. I'm a data enthusiast also currently studying at University of Illinois Urbana Champaign with interest in working with data. My passion lies in exploring data across various domains, turn complex data into actionable insights that drive business growth and operational efficiency. 
 
-# Welcome to My World of Data!
-  ### 🚀 About Me
-  Hello there! Welcome to a space where curiosity meets data. I'm a data enthusiast with a knack for uncovering stories hidden within numbers. My passion lies in exploring data across various domains, from healthcare to marketing, and turning complex analyses into clear, actionable insights.
-
-  ### 🔍 What You'll Find Here
+### 🔍 What You'll Find Here
   - **Data Analysis & Visualization**: Dive into interactive visualizations and comprehensive analyses.
   - **Creative Projects**: Unique takes on common data challenges.
   - **Learning Journey**: A documentation of my growth and learnings in the field of data science.
-  
-  ### 🛠 Tools & Technologies
-   - **Languages**: Python, R, SQL
-   - **Tools**: Jupyter Notebook, Tableau
-  
-  ### Why Here? 🌟
-  Because every piece of data has a story waiting to be told, and this is where those stories come to life. From analytical insights to creative visual storytelling, this is your go-to spot for seeing data in a new light.
 
-  ### 🌱 Grow With Me
-  Let's embark on this data-driven journey together. Explore my projects, leave your feedback, and let's connect to exchange ideas and insights.
+### 🛠 Tools & Technologies
+  - **Data Analysis:** Python (NumPy, Pandas), R, and SQL.
+  - **Business Intelligence:** Advanced skills in Tableau, Power BI, and QlikView.
+  - **Project Management:** Experienced with CRM, Agile, Jira, and Scrum.
+  - **Additional Tools:** Skilled in using Notion, Google Analytics, Jupyter Notebook
+
+### 🌱 Grow With Me
+Let's embark on this data-driven journey together. Explore my projects, leave your feedback, and let's connect to exchange ideas and insights.
+
+## 🤝 Let's Connect!
+Feel free to reach out to me for collaborations or just a chat about data science:
+- 📧 **Email:** [tvabhavi@gmail.com](mailto:tvabhavi@gmail.com)
+- 💼 **LinkedIn:** [Visit my Profile](https://www.linkedin.com/in/vabhavi-tickoo/)

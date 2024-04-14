@@ -26,4 +26,4 @@ Let's embark on this data-driven journey together. Explore my projects, leave yo
 #### 🤝 Let's Connect!
 Feel free to reach out to me for collaborations or just a chat about data science:
 - 📧 ***Email:*** [tvabhavi@gmail.com](mailto:tvabhavi@gmail.com)
-- 💼 ***LinkedIn:*** [Visit my Profile](https://www.linkedin.com/in/vabhavi-tickoo/)
+- 💼 ***LinkedIn:*** [Vabhavi Tickoo](https://www.linkedin.com/in/vabhavi-tickoo/)

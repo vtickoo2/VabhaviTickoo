@@ -7,7 +7,8 @@
 <p align="center"> 
 <b><u>**Welcome to My World of Data!**</u></b>
 </p>
-### 🚀 About Me
+
+###### 🚀 About Me
 Hello! I'm **Vabhavi Tickoo**. Welcome to a space where curiosity meets data. I'm a data enthusiast also currently studying at University of Illinois Urbana Champaign with interest in working with data. My passion lies in exploring data across various domains, turn complex data into actionable insights that drive business growth and operational efficiency. 
 
 ### 🔍 What You'll Find Here
